@@ -1,4 +1,5 @@
 # relp-alist
+https://replit.com/ 是本次教程的白嫖对象 如何注册此处略99字
 1.如图登陆relp导入项目
 
 ![XnSWy.jpg](https://s1.328888.xyz/2022/04/09/XnSWy.jpg)
