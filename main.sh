@@ -1,1 +1,2 @@
+chmod +x alist
 ./alist
