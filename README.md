@@ -8,7 +8,7 @@
 
 ![Xnxm3.jpg](https://s1.328888.xyz/2022/04/09/Xnxm3.jpg)
 
-3.输入代码`./alist -password`获取业务登陆密码
+3.在relp中点击绿色run运行后 再输入输入代码`./alist -password`获取本项目登陆密码
 
 ![X1yj2.jpg](https://s1.328888.xyz/2022/04/09/X1yj2.jpg)
 
